@@ -1,5 +1,8 @@
 # 🛡️ VeriChat: Private AI Document Assistant
 
+### 📸 Demo
+![VeriChat Interface](github1.png)
+
 **VeriChat** is a local RAG (Retrieval-Augmented Generation) application that allows users to chat with sensitive documents (PDFs) without sending data to external cloud servers.
 
 ## 🚀 Features
